@@ -1,0 +1,940 @@
+[
+  {
+    "chunk_id": 1,
+    "chunk_length": 10.54,
+    "text": "Congratulations to you, Mr. Raghavan, for that.  Thank you so much for joining us.  Over to you.  Hi, everybody.  How are you?",
+    "start_time": 0.0,
+    "end_time": 10.54
+  },
+  {
+    "chunk_id": 2,
+    "chunk_length": 10.62,
+    "text": "I am not hearing this at all.  It's like a post-lunch energy downer or something.  Let's hear it.  Are you guys awake?  All right.",
+    "start_time": 11.94,
+    "end_time": 22.56
+  },
+  {
+    "chunk_id": 3,
+    "chunk_length": 13.92,
+    "text": "You better be, because we have a superstar guest here.  You heard the $41 million.  And I didn't hear, honestly, anything she said after that.  So we're going to ask for about $40 million from him",
+    "start_time": 23.02,
+    "end_time": 36.94
+  },
+  {
+    "chunk_id": 4,
+    "chunk_length": 14.0,
+    "text": "by the end of this conversation, OK?  But let's get started.  I want to introduce Vivek and Pratyush,  his co-founder who's not here.  We wanted to start with playing a video of what OpenHati does.",
+    "start_time": 36.94,
+    "end_time": 50.94
+  },
+  {
+    "chunk_id": 5,
+    "chunk_length": 12.48,
+    "text": "I encourage all of you to go to the website,  servom.ai, and check it out.  But let me start by introducing Vivek.  Vivek is a dear friend.  And he's very, very modest, one of the most modest guys",
+    "start_time": 51.14,
+    "end_time": 63.62
+  },
+  {
+    "chunk_id": 6,
+    "chunk_length": 10.42,
+    "text": "that I know.  But his personal journey, Vivek, you've  got a PhD from Carnegie Mellon.  You started and sold the company to Magma.  And Vivek and I moved back to India.",
+    "start_time": 63.62,
+    "end_time": 74.04
+  },
+  {
+    "chunk_id": 7,
+    "chunk_length": 10.38,
+    "text": "We were both in the valley on the same day, actually.  And you've been in India for the last 16 years.  And what most people don't know is your journey at Aadhaar.",
+    "start_time": 74.36,
+    "end_time": 84.74
+  },
+  {
+    "chunk_id": 8,
+    "chunk_length": 12.74,
+    "text": "He spent 13 years selflessly at Aadhaar.  Nobody would have heard of him.  But he was a pioneering technology visionary  behind Aadhaar, which we all take for granted today.",
+    "start_time": 84.74,
+    "end_time": 97.48
+  },
+  {
+    "chunk_id": 9,
+    "chunk_length": 11.88,
+    "text": "So please give it up.  Honestly, when I think of selfless service,  truly selfless service, I always think of Vivek.  And since then, he also was at AI for Bharat,",
+    "start_time": 99.28,
+    "end_time": 111.16
+  },
+  {
+    "chunk_id": 10,
+    "chunk_length": 11.22,
+    "text": "which we're going to touch on, where he met Pratyush's  other co-founder.  Pratyush had a PhD from ETH at Zurich.  He was at IBM research.  He was at Microsoft research, playing a key role,",
+    "start_time": 111.38,
+    "end_time": 122.6
+  },
+  {
+    "chunk_id": 11,
+    "chunk_length": 10.42,
+    "text": "and a faculty at IIT Madras and at AI for Bharat.  So that's a little brief introduction about them.  These guys are modest, modest engineers.  So they don't toot their own horn.",
+    "start_time": 122.92,
+    "end_time": 133.34
+  },
+  {
+    "chunk_id": 12,
+    "chunk_length": 11.66,
+    "text": "So forgive me for tooting their horn in this case.  But let's jump right in.  What about the money?  Funding?  $41 million bucks, man.  That's a lot of money, right?",
+    "start_time": 134.16,
+    "end_time": 145.82
+  },
+  {
+    "chunk_id": 13,
+    "chunk_length": 12.28,
+    "text": "Every entrepreneur here is saying,  what the hell did these guys do?  What did the investors see to write such a big check?  No, I think it's a new trend of what's going on in India.",
+    "start_time": 145.82,
+    "end_time": 158.1
+  },
+  {
+    "chunk_id": 14,
+    "chunk_length": 10.54,
+    "text": "I think that for the very first time,  I think the investors have looked at,  let's try and build something deep tech out of the country.  And let's try to figure out how to build something",
+    "start_time": 158.36,
+    "end_time": 168.9
+  },
+  {
+    "chunk_id": 15,
+    "chunk_length": 12.72,
+    "text": "as a foundational technology out of the country.  And that's really what's really exciting.  And I think that about,  as Bala was mentioning for the past 15 years,",
+    "start_time": 168.9,
+    "end_time": 181.62
+  },
+  {
+    "chunk_id": 16,
+    "chunk_length": 11.88,
+    "text": "I've been kind of working in kind of,  both digital public infrastructure  and kind of a nonprofit kind of things.  But when this whole thing of generative AI came about,",
+    "start_time": 181.98,
+    "end_time": 193.86
+  },
+  {
+    "chunk_id": 17,
+    "chunk_length": 10.24,
+    "text": "we said, okay, how can I actually make a difference  in this space?  And I said, maybe this is the opportunity  to actually come out and really build something.",
+    "start_time": 195.16,
+    "end_time": 205.4
+  },
+  {
+    "chunk_id": 18,
+    "chunk_length": 10.2,
+    "text": "And the only way that we realized that you can do it  is actually in the private sector.  And I think that's, and then we went out there  and we said, we want to build something",
+    "start_time": 206.42,
+    "end_time": 216.62
+  },
+  {
+    "chunk_id": 19,
+    "chunk_length": 10.62,
+    "text": "which is a continuation, right?  I mean, and fundamentally the question is,  the reason of what we want to do at Servom AI  is we want to basically make generative AI available",
+    "start_time": 216.62,
+    "end_time": 227.24
+  },
+  {
+    "chunk_id": 20,
+    "chunk_length": 12.66,
+    "text": "and accessible to the people in the country.  And that's the intent.  And when we said that we want to do this,  there was a resonance in the investment community.  And I think it's a responsibility to really to show",
+    "start_time": 227.24,
+    "end_time": 239.9
+  },
+  {
+    "chunk_id": 21,
+    "chunk_length": 11.92,
+    "text": "that something like this can be built out of India.  So we see that as confidence and a responsibility.  And I also hope it's a trend  that there are many more people like us who are backed.",
+    "start_time": 240.44,
+    "end_time": 252.36
+  },
+  {
+    "chunk_id": 22,
+    "chunk_length": 10.0,
+    "text": "Because if you look at it, maybe it's a large number  in the Indian context, but in the global context,  I think that there should be many, many more entrepreneurs",
+    "start_time": 252.56,
+    "end_time": 262.56
+  },
+  {
+    "chunk_id": 23,
+    "chunk_length": 10.98,
+    "text": "who are back to do things in India.  I'm going to come back to the many more entrepreneurs.  I'm obviously going to ask you about Bhavesh's Krutrim.  So we're going to come back to that question.",
+    "start_time": 262.56,
+    "end_time": 273.54
+  },
+  {
+    "chunk_id": 24,
+    "chunk_length": 10.46,
+    "text": "But again, $41 million.  I mean, all of what you said, $2 million,  that's a good amount of money for a startup  which has not yet built anything.",
+    "start_time": 274.02,
+    "end_time": 284.48
+  },
+  {
+    "chunk_id": 25,
+    "chunk_length": 12.86,
+    "text": "What are you going to do with all this money?  I can solve the problem.  I can have a perfect solution for the problem.  I think in the last week, I've got lots of calls  from lots of people telling me how I can do.",
+    "start_time": 284.88,
+    "end_time": 297.74
+  },
+  {
+    "chunk_id": 26,
+    "chunk_length": 11.74,
+    "text": "No, but...  I know you first, okay?  I'll be landed in the country the same day.  I'm in the front of the queue.  No, but honestly, I think the key thing in this  is to putting together an amazing team.",
+    "start_time": 297.74,
+    "end_time": 309.48
+  },
+  {
+    "chunk_id": 27,
+    "chunk_length": 10.0,
+    "text": "And we actually have an amazing team,  but we believe that it is talent  that will drive this kind of thing.  And so it is to get key talent.  And of course, the other thing is compute.",
+    "start_time": 309.66,
+    "end_time": 319.66
+  },
+  {
+    "chunk_id": 28,
+    "chunk_length": 10.58,
+    "text": "This is extremely expensive, compute-wise,  to actually do these kinds of things.  And I think that those are the two primary things  that we'd use this for.",
+    "start_time": 319.76,
+    "end_time": 330.34
+  },
+  {
+    "chunk_id": 29,
+    "chunk_length": 12.66,
+    "text": "Okay.  I'm computing in my own head as an entrepreneur.  Talent, okay, you have like 20, 15 people.  How much are you paying these guys?  But okay, we won't touch on that.  But let's talk about what you guys actually built.",
+    "start_time": 331.04,
+    "end_time": 343.7
+  },
+  {
+    "chunk_id": 30,
+    "chunk_length": 13.16,
+    "text": "What is OpenHati?  How would you explain OpenHati to many people here  who might not have known about it?  So I think OpenHati is...  So first of all, right, we come from,  I personally come from the open source ecosystem",
+    "start_time": 343.96,
+    "end_time": 357.12
+  },
+  {
+    "chunk_id": 31,
+    "chunk_length": 11.34,
+    "text": "and also from the DPI ecosystem.  So we believe that for this to work,  we need the ecosystem to be successful.  And as a result of that,  one of the first things we did was,",
+    "start_time": 357.12,
+    "end_time": 368.46
+  },
+  {
+    "chunk_id": 32,
+    "chunk_length": 10.04,
+    "text": "hey, there are these open source  large language models that exist, right?  I mean, everybody knows about the llama family from Meta.  They also, there are others like Mistral.",
+    "start_time": 368.46,
+    "end_time": 378.5
+  },
+  {
+    "chunk_id": 33,
+    "chunk_length": 10.26,
+    "text": "There are a bunch of open source large language models.  And then we said, is there any way  that they can existing open source model",
+    "start_time": 378.62,
+    "end_time": 388.88
+  },
+  {
+    "chunk_id": 34,
+    "chunk_length": 11.36,
+    "text": "and teach it language skills, right?  I mean, and that is really what we decide,  what we said that can we do something like that?  And is this a relatively frugal way",
+    "start_time": 388.88,
+    "end_time": 400.24
+  },
+  {
+    "chunk_id": 35,
+    "chunk_length": 12.7,
+    "text": "of actually making models work in diverse languages?  Because the truth is still today,  I mean, if you look at the amount of data and knowledge,",
+    "start_time": 400.24,
+    "end_time": 412.94
+  },
+  {
+    "chunk_id": 36,
+    "chunk_length": 11.9,
+    "text": "it is still English dominates these things.  And I think that how do you actually take and make it  understand Indian language, understand Indian context,  and all of those things in actually in an efficient way.",
+    "start_time": 413.18,
+    "end_time": 425.08
+  },
+  {
+    "chunk_id": 37,
+    "chunk_length": 10.6,
+    "text": "And therefore, this was an attempt to do that.  And it's open happy is currently based on the llama  7 billion model, but we'll be releasing many more models",
+    "start_time": 425.08,
+    "end_time": 435.68
+  },
+  {
+    "chunk_id": 38,
+    "chunk_length": 12.22,
+    "text": "in different languages, different sizes,  and things like that as part of this series.  And of course, we will be building further models  on those and doing other things to actually,",
+    "start_time": 435.68,
+    "end_time": 447.9
+  },
+  {
+    "chunk_id": 39,
+    "chunk_length": 11.98,
+    "text": "and we'll also have endpoints that people can use.  So therefore, it's not, it's definitely something  that people can use two things.  And that's the essence of what this open happy is.",
+    "start_time": 448.16,
+    "end_time": 460.14
+  },
+  {
+    "chunk_id": 40,
+    "chunk_length": 11.52,
+    "text": "So what does it mean to people in the audience here  who are either doing their own startups or a business  or developers, how should they look at open AI?  Sorry, Saravan, not open AI.",
+    "start_time": 460.32,
+    "end_time": 471.84
+  },
+  {
+    "chunk_id": 41,
+    "chunk_length": 11.2,
+    "text": "No, I think the way you look at it is that  one of the important things that we are doing  is we're not just building models.  We are also going to be building a platform,",
+    "start_time": 472.78,
+    "end_time": 483.98
+  },
+  {
+    "chunk_id": 42,
+    "chunk_length": 10.08,
+    "text": "a platform for developers where you can actually use  a combination of various different kinds of models,  some which are from us, some which are open source,  some which may not be open source,",
+    "start_time": 484.28,
+    "end_time": 494.36
+  },
+  {
+    "chunk_id": 43,
+    "chunk_length": 10.84,
+    "text": "and actually to actually pull together and figure out  how to deploy, you know, generative AI applications  at scale and understand and evaluate their performance",
+    "start_time": 494.6,
+    "end_time": 505.44
+  },
+  {
+    "chunk_id": 44,
+    "chunk_length": 11.74,
+    "text": "in an efficient manner.  And that's something that we are planning to do  and this platform is, you know, in the next couple of months  will be coming out there.  It will be available to developers.  But of course, those who want to start",
+    "start_time": 505.44,
+    "end_time": 517.18
+  },
+  {
+    "chunk_id": 45,
+    "chunk_length": 11.22,
+    "text": "with the open source things and hack for that,  of course, please go ahead and do that as well.  That's phenomenal.  But how does it compare to open AI itself or Google?",
+    "start_time": 517.18,
+    "end_time": 528.4
+  },
+  {
+    "chunk_id": 46,
+    "chunk_length": 11.08,
+    "text": "See, at least the things that we are doing now, right?  I mean, one of the things that,  when we thought about building Saravan,  we said we want to build a full stack generative AI company",
+    "start_time": 530.3,
+    "end_time": 541.38
+  },
+  {
+    "chunk_id": 47,
+    "chunk_length": 12.56,
+    "text": "and different people and our understanding of full stack  is that we need to know how to train models from scratch.  We need to know how to kind of figure out  how to deploy models to solve real world use cases.",
+    "start_time": 541.38,
+    "end_time": 553.94
+  },
+  {
+    "chunk_id": 48,
+    "chunk_length": 10.62,
+    "text": "And we need to play in the ecosystem to make sure  that we can actually deploy population scale applications.  Right, so we were thinking about all of these things.",
+    "start_time": 554.32,
+    "end_time": 564.94
+  },
+  {
+    "chunk_id": 49,
+    "chunk_length": 13.16,
+    "text": "But still the models we were talking about  are fairly small models.  They are fairly small models, right?  The seven to maybe up to 70 billion  kind of range we're talking about.  While these models like open AI and Google",
+    "start_time": 564.94,
+    "end_time": 578.1
+  },
+  {
+    "chunk_id": 50,
+    "chunk_length": 11.84,
+    "text": "are obviously much bigger models, right?  But we want to understand the techniques  and be able to build that muscle  to do all of these things to make it available to people.",
+    "start_time": 578.1,
+    "end_time": 589.94
+  },
+  {
+    "chunk_id": 51,
+    "chunk_length": 13.1,
+    "text": "Now those models are, I mean, as I said,  I think that there is space for all of those things.  And I think as even Sridhar was talking about  earlier in the day, we believe that these smaller models",
+    "start_time": 590.06,
+    "end_time": 603.16
+  },
+  {
+    "chunk_id": 52,
+    "chunk_length": 11.5,
+    "text": "can do many, many kind of domain specific tasks  extremely well, probably even better than the larger models.  And that is really one of the key areas.",
+    "start_time": 603.16,
+    "end_time": 614.66
+  },
+  {
+    "chunk_id": 53,
+    "chunk_length": 11.18,
+    "text": "And so therefore the value of these kinds of things, right?  We are not aiming in these set of models to build any AGI.  That's not our goal here.  Our goal is to make things that work extremely well",
+    "start_time": 615.16,
+    "end_time": 626.34
+  },
+  {
+    "chunk_id": 54,
+    "chunk_length": 10.18,
+    "text": "for domain specific use cases  or increase accessibility through language  and all of those kinds of things.  And obviously all of this unique to India.  But what is unique about India?",
+    "start_time": 626.34,
+    "end_time": 636.52
+  },
+  {
+    "chunk_id": 55,
+    "chunk_length": 14.32,
+    "text": "I mean, what is, is there anything special  in our ecosystem that makes small models  focused with Indian languages  better for, more suited for our problems?  So I think that, I mean, there are quite a few things",
+    "start_time": 637.42,
+    "end_time": 651.74
+  },
+  {
+    "chunk_id": 56,
+    "chunk_length": 14.16,
+    "text": "that are unique about India, right?  The first thing is I think that we are a voice first nation.  So therefore I think voice has to be the core  to doing things.  The other thing, of course, India is extremely,",
+    "start_time": 651.74,
+    "end_time": 665.9
+  },
+  {
+    "chunk_id": 57,
+    "chunk_length": 12.58,
+    "text": "it's a cost conscious country from a cost perspective.  Now, I would say that there are lots of interesting  use cases where you can use open AI  and the cost structure works depending on your application.",
+    "start_time": 666.16,
+    "end_time": 678.74
+  },
+  {
+    "chunk_id": 58,
+    "chunk_length": 11.4,
+    "text": "But when you want to scale things to a massive level  and make it work, then you have to figure out  how small models work.  So that's something that is also specific to India.  The third thing which is specific to India",
+    "start_time": 678.74,
+    "end_time": 690.14
+  },
+  {
+    "chunk_id": 59,
+    "chunk_length": 10.9,
+    "text": "is really the success that India has had  in building all this digital public infrastructure.  When you add the AI layer on top of it,  then you can actually get dramatic,",
+    "start_time": 690.14,
+    "end_time": 701.04
+  },
+  {
+    "chunk_id": 60,
+    "chunk_length": 10.84,
+    "text": "you know, dramatic, I think,  multiplicative combinatorial effects  based on doing things like that.  That's a phenomenal point.  Like, you know, it's like DPI to the power of AI  almost in some ways.",
+    "start_time": 701.04,
+    "end_time": 711.88
+  },
+  {
+    "chunk_id": 61,
+    "chunk_length": 11.76,
+    "text": "And as a part of building other,  no better person than you.  So in summary, what I'm hearing is small models  specialize with trained with Indic specific language data",
+    "start_time": 712.24,
+    "end_time": 724.0
+  },
+  {
+    "chunk_id": 62,
+    "chunk_length": 10.64,
+    "text": "suited for Indian problems at a compelling cost point  will be suited for us.  We're not solving some word autonomous vehicles  or some complex problem.  We're solving some basic problems",
+    "start_time": 724.0,
+    "end_time": 734.64
+  },
+  {
+    "chunk_id": 63,
+    "chunk_length": 10.5,
+    "text": "specifically focused on voice with multiple languages.  That is what you see as the future.  Am I paraphrasing this correctly?  No, yeah.  So I think that certainly, I mean,  voice and Indian languages",
+    "start_time": 734.64,
+    "end_time": 745.14
+  },
+  {
+    "chunk_id": 64,
+    "chunk_length": 10.78,
+    "text": "are an important part of our strategy,  but we will be building, you know,  custom models to solve various other kinds of problems  as well, right?  It's not just limited to, I think,",
+    "start_time": 745.14,
+    "end_time": 755.92
+  },
+  {
+    "chunk_id": 65,
+    "chunk_length": 12.78,
+    "text": "in different domains, working in different domains,  making building things based on unique data  that enterprises have and things like that.  So that's something that we'll also look at.  Fair enough.  So coming back to the elephant in the room,",
+    "start_time": 756.14,
+    "end_time": 768.92
+  },
+  {
+    "chunk_id": 66,
+    "chunk_length": 13.3,
+    "text": "no fun intended with open Hathi.  What about Bhavesh Agarwal and Kruthrim?  What is your take on that?  No, I think it's great.  I think it's wonderful, right?  I mean, the fact that the technology AI is so important",
+    "start_time": 769.32,
+    "end_time": 782.62
+  },
+  {
+    "chunk_id": 67,
+    "chunk_length": 13.4,
+    "text": "that we need multiple people working on it.  The fact that there are other people thinking  is actually validates  that this is an important problem to be solved.  And I think that, and we need everybody",
+    "start_time": 782.62,
+    "end_time": 796.02
+  },
+  {
+    "chunk_id": 68,
+    "chunk_length": 10.2,
+    "text": "to come together and do that.  So I really welcome that.  I think it's great.  And I think that there'll be different people  will have different takes  as to how to solve this kind of problem.",
+    "start_time": 796.02,
+    "end_time": 806.22
+  },
+  {
+    "chunk_id": 69,
+    "chunk_length": 11.7,
+    "text": "And hopefully as a result of that,  the entire ecosystem benefits.  I have one more question.  And then I want to talk about some of the predictions  that you've boldly made.  So Vivek, I usually ask people about",
+    "start_time": 806.6,
+    "end_time": 818.3
+  },
+  {
+    "chunk_id": 70,
+    "chunk_length": 11.54,
+    "text": "what do you think the future will be  and everybody usually hedges.  I asked Vivek, what do you think is going to happen  by December 2024?  What do you think sitting in this room  one year later we can expect?  And he made three bold predictions.",
+    "start_time": 818.3,
+    "end_time": 829.84
+  },
+  {
+    "chunk_id": 71,
+    "chunk_length": 10.92,
+    "text": "So I want to talk about that.  Before that, I have one last question.  What are the top three applications  that you think are relevant for India?  You heard Sridhar talk about medical.  What, no, any quick summary.",
+    "start_time": 830.38,
+    "end_time": 841.3
+  },
+  {
+    "chunk_id": 72,
+    "chunk_length": 12.14,
+    "text": "What do you think the top three apps are for India, for AI?  So, I mean, I think that, as you said,  things like education and medical  are clearly areas where I think",
+    "start_time": 841.4,
+    "end_time": 853.54
+  },
+  {
+    "chunk_id": 73,
+    "chunk_length": 11.2,
+    "text": "that things can be leveraged.  The whole idea of all these kind of,  the DPI aspect of it is another major application  where things can happen.  And here I'm talking about country-specific work.",
+    "start_time": 853.54,
+    "end_time": 864.74
+  },
+  {
+    "chunk_id": 74,
+    "chunk_length": 12.12,
+    "text": "And I think the whole idea which Sridhar also talked about  was the concept of software, right?  And I think that, and clearly we have  a very large software industry  and how to reimagine those things in this context",
+    "start_time": 864.9,
+    "end_time": 877.02
+  },
+  {
+    "chunk_id": 75,
+    "chunk_length": 10.76,
+    "text": "is also something that's going to be, okay?  Fair enough.  Are you guys ready for Vivek Raghavan's bold predictions?  Yes?  No, I'm not hearing any yeses.  This is like a big deal.",
+    "start_time": 877.02,
+    "end_time": 887.78
+  },
+  {
+    "chunk_id": 76,
+    "chunk_length": 11.08,
+    "text": "He's like one of the smartest guys that I know.  He wants to make three predictions.  You don't want to hear it?  All right.  So I asked him, what do you think, you know, a year later,  what do you think we can expect?",
+    "start_time": 888.1,
+    "end_time": 899.18
+  },
+  {
+    "chunk_id": 77,
+    "chunk_length": 10.42,
+    "text": "And he came up with three things.  And usually people give very blah answers  when you ask a question like this,  because they don't want to be caught wrong.  Not Vivek, Vivek is bold.  So he basically said three things",
+    "start_time": 899.66,
+    "end_time": 910.08
+  },
+  {
+    "chunk_id": 78,
+    "chunk_length": 11.34,
+    "text": "and I'm going to list out the three things  and then ask him about it.  So number one, he says,  I would prefer to talk to an automated customer service  than a real person,  because they'll give me a better answer.",
+    "start_time": 910.08,
+    "end_time": 921.42
+  },
+  {
+    "chunk_id": 79,
+    "chunk_length": 11.0,
+    "text": "So that is Vivek Raghavan's prediction number one.  So number two is that  when everybody is talking about a GPU shortage,  Vivek predicts that there'll be a GPU glut in India.",
+    "start_time": 921.62,
+    "end_time": 932.62
+  },
+  {
+    "chunk_id": 80,
+    "chunk_length": 11.62,
+    "text": "He thinks there'll be too much GPU, okay?  So if you want a short NMEDIA talk, this is a good time.  And number three, which was extremely unexpected,  he said some companies will suddenly die.",
+    "start_time": 932.7,
+    "end_time": 944.32
+  },
+  {
+    "chunk_id": 81,
+    "chunk_length": 11.2,
+    "text": "Okay, so Vivek, these are not what I expected.  So do you want to quickly talk about each of them,  why you just came up with these  and then we'll throw the open for audience questions.",
+    "start_time": 945.5,
+    "end_time": 956.7
+  },
+  {
+    "chunk_id": 82,
+    "chunk_length": 10.68,
+    "text": "So I don't think I quite said it the way  that Bala is kind of making,  but it's interesting.  But I think the first thing that we said is,",
+    "start_time": 956.96,
+    "end_time": 967.64
+  },
+  {
+    "chunk_id": 83,
+    "chunk_length": 12.64,
+    "text": "I think that, and I don't think that this is,  I think there will come a time  when in areas of customer service, et cetera,  when you want to do something very specific.",
+    "start_time": 967.82,
+    "end_time": 980.46
+  },
+  {
+    "chunk_id": 84,
+    "chunk_length": 10.02,
+    "text": "Today, when you call some kind of a bot,  you actually end up,  you mostly try to disconnect the call  or you're extremely upset that you're talking to a bot.",
+    "start_time": 980.94,
+    "end_time": 990.96
+  },
+  {
+    "chunk_id": 85,
+    "chunk_length": 10.46,
+    "text": "But I think that there will come a time  and I'm predicting it is sooner than later,  that you will actually get better responses from the bot  than what the human representative,",
+    "start_time": 991.24,
+    "end_time": 1001.7
+  },
+  {
+    "chunk_id": 86,
+    "chunk_length": 10.18,
+    "text": "that at least the average human representative  that you could talk to could give.  And I think that that's just,  I just said that there will come a time  where you know it's not a human you're talking to,",
+    "start_time": 1001.98,
+    "end_time": 1012.16
+  },
+  {
+    "chunk_id": 87,
+    "chunk_length": 10.7,
+    "text": "but it's probably more likely to solve your intent  than the human person.  That's just something that I think that could happen.",
+    "start_time": 1012.36,
+    "end_time": 1023.06
+  },
+  {
+    "chunk_id": 88,
+    "chunk_length": 12.98,
+    "text": "Definitely controversial, but we'll let it go.  What about the GPU glut?  No, no, yeah, so I don't think that,  so I think that the fact that there is  a tremendous shortage right now,  I think that shortage will ease",
+    "start_time": 1023.74,
+    "end_time": 1036.72
+  },
+  {
+    "chunk_id": 89,
+    "chunk_length": 11.78,
+    "text": "because that is how the cycles of things go, right?  When, you know, I think the fact that  there was such a severe shortage last year,  you know, basically caused a number of different players",
+    "start_time": 1036.72,
+    "end_time": 1048.5
+  },
+  {
+    "chunk_id": 90,
+    "chunk_length": 10.12,
+    "text": "to ramp up in various kinds of forms.  And I think that that will always go in a cycle.  But you may find out that there are  many, many more interesting problems",
+    "start_time": 1048.5,
+    "end_time": 1058.62
+  },
+  {
+    "chunk_id": 91,
+    "chunk_length": 10.26,
+    "text": "that people will be able to solve.  I still remember, you know,  we were at a Gen. AI event in Bangalore,",
+    "start_time": 1058.62,
+    "end_time": 1068.88
+  },
+  {
+    "chunk_id": 92,
+    "chunk_length": 11.38,
+    "text": "and we were talking to people,  and we said, you know, how many people have access to,  you know, four A-hundreds?  This was the question that I'd asked.  And nobody in the room,  and these are all extremely enthusiastic Gen. AI people,",
+    "start_time": 1068.9,
+    "end_time": 1080.28
+  },
+  {
+    "chunk_id": 93,
+    "chunk_length": 12.44,
+    "text": "and nobody had access.  And I think that thing is going to change.  You will be able to get these kinds of things,  and people who want to hack and do things  will have access to these things  without, you know, having to write a,",
+    "start_time": 1080.28,
+    "end_time": 1092.72
+  },
+  {
+    "chunk_id": 94,
+    "chunk_length": 13.4,
+    "text": "you know, a major check.  Vivek is also a semi-conductor guy  before he went into Aadhaar,  so I would take his predictions very seriously,  so I don't know what, I'm going to sell my in-media stock.  I would not do that, but that's not what I said.",
+    "start_time": 1092.72,
+    "end_time": 1106.12
+  },
+  {
+    "chunk_id": 95,
+    "chunk_length": 10.46,
+    "text": "I want to blame you for this, if it goes up.  But the third one is pretty strange.  You know, companies are born, companies die,  but you said some companies will suddenly die.",
+    "start_time": 1107.3,
+    "end_time": 1117.76
+  },
+  {
+    "chunk_id": 96,
+    "chunk_length": 11.0,
+    "text": "What does that mean?  No, I think, see, I think the interesting thing is,  and I think that it comes back  to the fundamental nature of AI.  AI is a tool, right?",
+    "start_time": 1118.08,
+    "end_time": 1129.08
+  },
+  {
+    "chunk_id": 97,
+    "chunk_length": 12.94,
+    "text": "And you have to use that,  and you have to use that within your business process, right?  And how AI is being used,  and so, and what's going to happen is that,  I mean, I think this is true with, you know,",
+    "start_time": 1129.08,
+    "end_time": 1142.02
+  },
+  {
+    "chunk_id": 98,
+    "chunk_length": 12.22,
+    "text": "when someone said in terms of, you know, people,  they said that the people who leverage AI  will be more effective than those who don't leverage AI,  and that was true for organizations also.",
+    "start_time": 1142.08,
+    "end_time": 1154.3
+  },
+  {
+    "chunk_id": 99,
+    "chunk_length": 11.54,
+    "text": "Organizations that leverage AI,  fundamentally in their core business processes,  will be more effective than those who don't, right?  And I think that's the thing,  and you won't know the difference",
+    "start_time": 1154.96,
+    "end_time": 1166.5
+  },
+  {
+    "chunk_id": 100,
+    "chunk_length": 10.22,
+    "text": "until one day it becomes too obvious,  and it will be too late.  And I think that's the reason why everybody needs  to think about what it means for your business,",
+    "start_time": 1166.5,
+    "end_time": 1176.72
+  },
+  {
+    "chunk_id": 101,
+    "chunk_length": 10.9,
+    "text": "because you'll, everything will be fine.  Everything will be fine, and one day,  somebody in your, either your competitor in your space,  or somebody brand new coming into your space",
+    "start_time": 1176.96,
+    "end_time": 1187.86
+  },
+  {
+    "chunk_id": 102,
+    "chunk_length": 10.96,
+    "text": "will be reimagining your business process completely.  And at that stage, you will find that it's, you know,  a mountain to climb.",
+    "start_time": 1187.86,
+    "end_time": 1198.82
+  },
+  {
+    "chunk_id": 103,
+    "chunk_length": 11.38,
+    "text": "And that's why I think it's important for both people  and entities to think about how they will, you know,  they will upgrade themselves,  or they will modify their business processes to, you know.",
+    "start_time": 1198.9,
+    "end_time": 1210.28
+  },
+  {
+    "chunk_id": 104,
+    "chunk_length": 12.02,
+    "text": "That's a very nuanced answer,  and everybody here who's running a business  should really think about it,  because life will be the same,  and then suddenly, suddenly something will, you know,  then it will be a step change.  Vivek, I have a few more questions,",
+    "start_time": 1210.82,
+    "end_time": 1222.84
+  },
+  {
+    "chunk_id": 105,
+    "chunk_length": 12.38,
+    "text": "but I'm sure the audience has a lot of questions for you.  So, how are we doing on time?  Okay, so, does, okay, a lot of questions,  so love to, is there a mic that we can pass around?",
+    "start_time": 1222.86,
+    "end_time": 1235.24
+  },
+  {
+    "chunk_id": 106,
+    "chunk_length": 11.72,
+    "text": "Thank you.  My name is Karthik, I work for IT service industry.  So you're saying that you're working on LLM, sorry,",
+    "start_time": 1240.36,
+    "end_time": 1252.08
+  },
+  {
+    "chunk_id": 107,
+    "chunk_length": 10.72,
+    "text": "it's a fine-tuned LLM on top of Llama.  My basic question, fundamental question,  is we don't have a foundational model for India.  Most of the models are basically using English",
+    "start_time": 1252.54,
+    "end_time": 1263.26
+  },
+  {
+    "chunk_id": 108,
+    "chunk_length": 12.78,
+    "text": "or those kind of things.  For example, Andrew was talking about the tokenizers  and things like that.  So are you working on anything like that,  or do you want to use mostly the existing models",
+    "start_time": 1263.26,
+    "end_time": 1276.04
+  },
+  {
+    "chunk_id": 109,
+    "chunk_length": 10.28,
+    "text": "and run on top of it?  Are you going to use it?  Good question, you asked a cherry question for him, sir.  No, I think the interesting thing is that  if you look at, and then we have actually a blog",
+    "start_time": 1276.04,
+    "end_time": 1286.32
+  },
+  {
+    "chunk_id": 110,
+    "chunk_length": 10.82,
+    "text": "on this, on our website, I think one of the things  that we've built is we've actually built  a customized tokenizer, which actually fundamentally  changes the cost of some of these generations",
+    "start_time": 1286.32,
+    "end_time": 1297.14
+  },
+  {
+    "chunk_id": 111,
+    "chunk_length": 10.32,
+    "text": "in Indian languages.  And I think that we're not just fine-tuning,  we're actually, we are leveraging the existing pre-training,  but we are doing what's known as continual pre-training,",
+    "start_time": 1297.14,
+    "end_time": 1307.46
+  },
+  {
+    "chunk_id": 112,
+    "chunk_length": 10.36,
+    "text": "which actually, but having said that, you know,  I think that once we have to figure out  where is the data to train an extremely large model  from scratch, and some of those things are things",
+    "start_time": 1307.54,
+    "end_time": 1317.9
+  },
+  {
+    "chunk_id": 113,
+    "chunk_length": 10.22,
+    "text": "which will happen over time.  But I think that, yes, I think that we will be  doing various kinds of things, but the interesting thing",
+    "start_time": 1317.9,
+    "end_time": 1328.12
+  },
+  {
+    "chunk_id": 114,
+    "chunk_length": 10.88,
+    "text": "is that if I want to change the accessibility problem  with an existing open source model, how do I do that?  And that's the problem that we have,  that we think we have solved, and it's going to be",
+    "start_time": 1328.12,
+    "end_time": 1339.0
+  },
+  {
+    "chunk_id": 115,
+    "chunk_length": 11.74,
+    "text": "the heart of this open hearty series.  It's extremely well explained in the blog,  even I could understand it, so.  Hi, I'm Prashant, I work for a fintech company.  My question is like, unlike China,",
+    "start_time": 1339.0,
+    "end_time": 1350.74
+  },
+  {
+    "chunk_id": 116,
+    "chunk_length": 13.34,
+    "text": "we never had a consumer-facing application  coming out from India, and in web one, web two,  crypto and all, why do you think it will be different  this time in like AI?",
+    "start_time": 1350.86,
+    "end_time": 1364.2
+  },
+  {
+    "chunk_id": 117,
+    "chunk_length": 11.92,
+    "text": "Because will the DPI and other things  will serve the same purpose  what the Great Firewall did in China,  or do you think like in, because AI is a strategic sector,",
+    "start_time": 1365.6,
+    "end_time": 1377.52
+  },
+  {
+    "chunk_id": 118,
+    "chunk_length": 10.34,
+    "text": "no outside country can work in NASA projects,  maybe all government contracts will go to them,  what exactly is the moat here for an Indian company?",
+    "start_time": 1378.3,
+    "end_time": 1388.64
+  },
+  {
+    "chunk_id": 119,
+    "chunk_length": 10.4,
+    "text": "So, I think the question is, I don't know the answer  to these questions, and I think that it's difficult",
+    "start_time": 1391.34,
+    "end_time": 1401.74
+  },
+  {
+    "chunk_id": 120,
+    "chunk_length": 10.82,
+    "text": "to predict, but I do believe, and as I'm repeating,  that the combinatorial effect of using Gen. AI  at a large scale, in addition, along with the DPI work",
+    "start_time": 1401.74,
+    "end_time": 1412.56
+  },
+  {
+    "chunk_id": 121,
+    "chunk_length": 11.2,
+    "text": "that we've done in India, will have people,  and I think that in the end, it is, the intent is that  people need to be able to use it, and they will vote  by things that are useful for them,",
+    "start_time": 1412.56,
+    "end_time": 1423.76
+  },
+  {
+    "chunk_id": 122,
+    "chunk_length": 13.2,
+    "text": "and if that doesn't happen, you're right,  and I think that we have to figure out  what is the mechanism of delivery of apps, right?  Where do Indians consume content, that's the question.",
+    "start_time": 1423.78,
+    "end_time": 1436.98
+  },
+  {
+    "chunk_id": 123,
+    "chunk_length": 11.6,
+    "text": "I'm so sorry, but we are out of time,  Vivek will be outside, so he would be able  to answer the question, do we have time for one last question?  Can I just take one last, yeah.  Thank you, thank you, I'm Manish Kothari,",
+    "start_time": 1437.4,
+    "end_time": 1449.0
+  },
+  {
+    "chunk_id": 124,
+    "chunk_length": 10.3,
+    "text": "I'm from ISBR Business School, good that I got a chance  to ask you this question.  During lunchtime, there were a few of our educationists  whom we were talking about, and there was one from school,",
+    "start_time": 1449.0,
+    "end_time": 1459.3
+  },
+  {
+    "chunk_id": 125,
+    "chunk_length": 10.12,
+    "text": "and we are from the MBA institutions,  we were thinking of these present generations,  how do we get them into what you are doing?  There is one thing that they have been regularly,",
+    "start_time": 1459.38,
+    "end_time": 1469.5
+  },
+  {
+    "chunk_id": 126,
+    "chunk_length": 12.0,
+    "text": "that the concentrations that they're working on,  but artificial intelligence and getting into this,  getting them into their academics and making them  a part of it is very important, including the trainers  who train them, making them future ready",
+    "start_time": 1469.68,
+    "end_time": 1481.68
+  },
+  {
+    "chunk_id": 127,
+    "chunk_length": 11.18,
+    "text": "into what you are doing is amazing,  and the speed with which it is growing,  it is calling for a lot of training that needs to be done.  Can you, from your angle, throw some light on",
+    "start_time": 1481.68,
+    "end_time": 1492.86
+  },
+  {
+    "chunk_id": 128,
+    "chunk_length": 10.74,
+    "text": "how we could make them future ready?  How these people who are management graduates  and from schools who are coming out,  how do we get into this part of technology  that you spoke about?",
+    "start_time": 1492.86,
+    "end_time": 1503.6
+  },
+  {
+    "chunk_id": 129,
+    "chunk_length": 10.26,
+    "text": "No, so this is really a challenge,  because I think everyone will need to understand  at some level what this technology does,  and I think that we have to rethink",
+    "start_time": 1504.88,
+    "end_time": 1515.14
+  },
+  {
+    "chunk_id": 130,
+    "chunk_length": 13.24,
+    "text": "how we get everyone into this,  and that this kind of education has to be  at many different levels, right?  There are, from a core set of having people  who are extremely good at some,",
+    "start_time": 1515.14,
+    "end_time": 1528.38
+  },
+  {
+    "chunk_id": 131,
+    "chunk_length": 10.7,
+    "text": "and there you don't need as many,  but then there are basically vast numbers of people  who can actually leverage these tools.  By the way, the most important thing about,  and maybe that's part of what makes an LLM interesting,",
+    "start_time": 1528.56,
+    "end_time": 1539.26
+  },
+  {
+    "chunk_id": 132,
+    "chunk_length": 13.12,
+    "text": "is that how you use it,  your mileage varies by that,  and to understand how to actually leverage this  in an interesting way is something  that we have to widely teach many, many people,",
+    "start_time": 1539.26,
+    "end_time": 1552.38
+  },
+  {
+    "chunk_id": 133,
+    "chunk_length": 10.82,
+    "text": "and because asking the things in the right way  and having the right kind of applications  will make a huge difference to how people can leverage these tools.  Awesome. Thank you.",
+    "start_time": 1553.38,
+    "end_time": 1564.2
+  },
+  {
+    "chunk_id": 134,
+    "chunk_length": 10.56,
+    "text": "Thank you very much, Vivek.  Very good luck to Sarvam, and good luck to India.  I think it's going to be a lot right on your shoulders.  Thanks, Bala.  Thank you, Mr. Raghavan.",
+    "start_time": 1564.2,
+    "end_time": 1574.76
+  }
+]
